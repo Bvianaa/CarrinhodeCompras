@@ -1,2 +1,1 @@
-## Carrnho de Compras
-# desenvolvido em aula
+## Carrnho de Compras (desenvolvido em aula)
